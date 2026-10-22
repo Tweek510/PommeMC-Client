@@ -24,8 +24,8 @@ pomme-install = { path = "../../pomme-install" }
 tauri = { version = "2", features = [] }
 tauri-plugin-dialog = "2"
 tauri-plugin-shell = "2"
-tauri-plugin-opener = "2"
-tauri-plugin-clipboard-manager = "2"
+tauri-plugin-opener = "2.6.0"
+tauri-plugin-clipboard-manager = "=2.4.2"
 log = "0.4"
 rand = "0.10"
 url = "2"
